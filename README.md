@@ -25,12 +25,4 @@ This project is built using **Tailwind CSS** with custom theming, color palettes
   - Tailwind utility-first design for lightweight CSS
   - No external frameworks used (pure Tailwind)
 
----
-
-## 🛠️ Project Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/your-tailwind-project.git
-cd your-tailwind-project
+-
